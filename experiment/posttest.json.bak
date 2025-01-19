@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Vector = $$\\begin{vmatrix} 69.1175 \\\\ 87.7188 \\\\ -12.1368 \\end{vmatrix}$$ <br> Calculate 1-norm, 2-norm and infinity norm.",
+      "qid": 1,
+      "option_a": "1-norm = 186.719, 2-norm = 126.741, Infinity norm = 75.114",
+      "option_b": "1-norm = 168.9731, 2-norm = 112.3348, Infinity norm = 87.7178",
+      "option_c": "1-norm = 187.6689, 2-norm = 104.6541, Infinity norm = 79.214",
+      "option_d": "1-norm = 178.913, 2-norm = 116.165, Infinity norm = 84.121",
+      "correct_option": "b"
+   },
+   {
+      "question": "Matrix = $$\\begin{bmatrix}100 & 21.29 & 48.8904 \\\\ 23.8151 & -41.8525 & -5.0406 \\\\ -4.2828 & 34.5147 & 15.145\\end{bmatrix}$$ <br> Calculate 1-norm and infinity norm.",
+      "qid": 1,
+      "option_a": "1-norm = 114.719, Infinity norm = 152.114",
+      "option_b": "1-norm = 137.6689, Infinity norm = 169.214",
+      "option_c": "1-norm = 128.0979, Infinity norm = 170.1804",
+      "option_d": "1-norm = 146.913, Infinity norm = 158.121",
+      "correct_option": "c"
+   }
+]

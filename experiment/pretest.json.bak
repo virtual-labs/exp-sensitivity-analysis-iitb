@@ -1,0 +1,49 @@
+[
+
+    {
+        "question": "What does the absolute value of a number represent?  ",
+        "qid": 1,
+        "option_a": "The magnitude of the number without considering its sign ",
+        "option_b": "The sign of the number ",
+        "option_c": "The reciprocal of the number ",
+        "option_d": "The square of the number",
+        "correct_option": "a"
+    },
+    {
+        "question": "What is the absolute value of 0?",
+        "qid": 2,
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "-1",
+        "option_d": "undefined",
+        "correct_option": "a"
+    },
+    {
+        "question": "Which p-norm corresponds to the Manhattan distance? ",
+        "qid": 3,
+        "option_a": "p=1",
+        "option_b": "p=2",
+        "option_c": "p=1.1",
+        "option_d": "p=0",
+        "correct_option": "a"
+    },
+    {
+        "question": "What does the p-norm represent in mathematics? ",
+        "qid": 4,
+        "option_a": "A measure of distance or size in a vector space ",
+        "option_b": "The probability of an event occurring ",
+        "option_c": "The derivative of a function at a point ",
+        "option_d": "The limit of a sequence",
+        "correct_option": "a"
+    },
+    {
+        
+        "question": "What is the absolute value of -5?",
+        "qid": 5,
+        "option_a": "25 ",
+        "option_b": "5",
+        "option_c": "-5",
+        "option_d": "0",
+        "correct_option": "b"
+    }
+]
